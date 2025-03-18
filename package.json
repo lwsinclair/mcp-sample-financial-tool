@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"dev": "nodemon index.js"
 	},
 	"keywords": [],
 	"author": "",
@@ -13,5 +13,8 @@
 	"dependencies": {
 		"@modelcontextprotocol/sdk": "^1.7.0",
 		"zod": "^3.24.2"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.9"
 	}
 }
