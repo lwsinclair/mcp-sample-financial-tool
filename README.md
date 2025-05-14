@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/prayag2003-mcp-sample-financial-tool-badge.png)](https://mseep.ai/app/prayag2003-mcp-sample-financial-tool)
+
 # Financial Data Provider MCP Server
 
 A Model Context Protocol (MCP) server implementation providing financial data and calculations through various APIs.
